@@ -1,0 +1,25 @@
+{
+  "schedules": [
+    {
+      "id": "1720487517387",
+      "sDate": "2024-07-09",
+      "sHour": "09",
+      "sClient": "Leonardo Reichardt",
+      "oWhen": "2024-07-09T12:00:00.000Z"
+    },
+    {
+      "id": "1720487530311",
+      "sDate": "2024-07-09",
+      "sHour": "20",
+      "sClient": "João Silva",
+      "oWhen": "2024-07-09T23:00:00.000Z"
+    },
+    {
+      "id": "1720487575733",
+      "sDate": "2024-07-09",
+      "sHour": "14",
+      "sClient": "Vinicius Moraes",
+      "oWhen": "2024-07-09T17:00:00.000Z"
+    }
+  ]
+}
